@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColorPink">#D8A7B1</color>
+    <color name="primaryColorGreen">#A9BDB3</color>
+    <color name="primaryColorGreenOpacity">#B3A9BDB3</color>
+    <color name="primaryColorBrown">#CAB7A1</color>
+
+    <color name="secondaryColorBrown">#F6E6D5</color>
+    <color name="secondaryColorGrey">#DADADA</color>
+    <color name="secondaryColorPink">#E9D1D9</color>
+
+    <color name="bodyText">#333333</color>
+    <color name="black">#000000</color>
+    <color name="subtitleText">#757575</color>
+
+    <color name="primaryBtnBackground">#D8A7B1</color>
+    <color name="primaryBtnBackgroundOpacity">#4DD8A7B1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="secondaryBtnBackground">#FFFFFF</color>
+    <color name="notesBackground">#F6F6F6</color>
+    <color name="secondaryBtnText">#D8A7B1</color>
+
+    <color name="errorBackground">#FFD3DB</color>
+    <color name="toastText">#333333</color>
+    <color name="successBackground">#B8D8BA</color>
+
+    <color name="textStarterColor">#555555</color>
+    <color name="starYellow">#D4A672</color>
+</resources>
